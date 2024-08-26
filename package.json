@@ -1,0 +1,19 @@
+{
+	"name": "trading-bot-ai",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "npx ts-node src/main.ts",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"axios-error": "^1.0.4",
+		"bybit-api": "^3.10.13",
+		"chart.js": "^4.4.4",
+		"dotenv": "^16.4.5",
+		"viem": "^2.20.0"
+	}
+}
