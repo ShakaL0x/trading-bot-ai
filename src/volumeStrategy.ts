@@ -1,4 +1,4 @@
-import { fifteenMinsData as data } from './data/15mins'
+import { fourHourData as data } from './data/4hour'
 
 interface DataPoint {
 	timestamp: number
